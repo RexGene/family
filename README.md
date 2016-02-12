@@ -22,8 +22,8 @@
 ## **人物介绍**
 
 ###刘公广
-* 生于:叁月拾壹
-* 终于:贰月初壹
-* 简介:刘氏祖宗,事迹未名。
+* **生于**:叁月拾壹
+* **终于**:贰月初壹
+* **简介**:刘氏祖宗,事迹未名。
 
 [1]:https://raw.githubusercontent.com/RexGene/family/master/tree/tree.png
