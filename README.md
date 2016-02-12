@@ -15,7 +15,10 @@
 
 我祖规例每代结婚时改之名曰字要随着以上一字另加一字,名曰结婚名字以分老幼辈之称。
 
+![png][1]
+
 
 ## **人物介绍*
 
 
+[1]:https://raw.githubusercontent.com/RexGene/family/master/tree/tree.png
