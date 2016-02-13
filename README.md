@@ -2,9 +2,12 @@
 
 
 ## **版本修改记录**
+当前版本:2
+
 |版本号|修改内容|修改人|
 |------|--------|---|
-|0.8|初版|刘道俊|
+|2|添加部分人物|刘道俊|
+|1|初版|刘道俊|
 
 
 ## **起源**
@@ -17,7 +20,7 @@
 我祖规例每代结婚时改之名曰字要随着以上一字另加一字,名曰结婚名字以分老幼辈之称。
 
 ## **谱图**
-![png][1]
+![png](https://raw.githubusercontent.com/RexGene/family/master/tree/tree.png)
 
 
 ## **人物介绍**
@@ -27,4 +30,3 @@
 * **终于**:贰月初壹
 * **简介**:刘氏祖宗,事迹未名。
 
-[1]:https://raw.githubusercontent.com/RexGene/family/master/tree/tree.png
